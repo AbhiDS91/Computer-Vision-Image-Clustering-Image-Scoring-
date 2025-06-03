@@ -71,7 +71,7 @@ The project utilizes millions of images, with approximately eleven million image
 
 ## **Conclusion**
 
-This project successfully developed a prototype for image labelling and ranking using advanced Deep Learning techniques. By applying clustering algorithms on features extracted from CNNs and building a ranking model with supervised transfer learning, the project aims to improve the visual content displayed in the travel industry, ultimately enhancing user experience and conversion rates.
+This project successfully developed a prototype for image labelling and ranking using machine learning techniques. By applying clustering algorithms on features extracted from CNNs and building a ranking model with supervised transfer learning, the project aims to improve the visual content displayed in the travel industry, ultimately enhancing user experience and conversion rates. 
 
 ---
 
